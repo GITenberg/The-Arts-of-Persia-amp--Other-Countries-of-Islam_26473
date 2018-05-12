@@ -1,0 +1,29 @@
+_repo: The-Arts-of-Persia-amp--Other-Countries-of-Islam_26473
+_version: 0.1.0
+alternative_title: The Arts of Persia and Other Countries of Islam
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kevorkian, Hagop K.
+    gutenberg_agent_id: '32030'
+    url: http://www.gutenberg.org/2009/agents/32030
+description: ''
+gutenberg_issued: '2008-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26473'
+  lccn: '45027366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art objects -- Exhibitions'
+- !lcsh 'Art, Islamic'
+- !lcsh 'Art, Iranian'
+- !lcc 'N'
+- !lcsh 'Illumination of books and manuscripts -- Iran'
+title: The Arts of Persia & Other Countries of Islam
+url: http://www.gutenberg.org/ebooks/26473
